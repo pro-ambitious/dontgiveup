@@ -1,0 +1,2 @@
+# dontgiveup
+Learning to code
